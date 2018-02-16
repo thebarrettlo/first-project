@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+
+header {
+	background-image: url(images/ugandaKnuckles1.png);
+	height: 700px;
+	width: 100%;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+header .profile {
+	position: relative;
+	margin: auto;
+	width: 300px;
+	z-index: 2;
+}
